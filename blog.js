@@ -1,7 +1,7 @@
-/*JQuery*/
+// JQuery
 $.noConflict()
 jQuery(document).ready(function($) {
     
 })
 
-/*JavaScript*/
+// JavaScript
